@@ -4,3 +4,4 @@ curl -H "Authorization: Bearer $token" https://public.ecr.aws/v2/aws-secrets-man
 
             "registry.k8s.io/sig-storage/livenessprobe:v2.9.0",
             "registry.k8s.io/ingress-nginx/controller:v1.10.0@sha256:42b3f0e5d0846876b1791cd3afeb5f1cbbe4259d6f35651dcc1b5c980925379c",
+https://registry.k8s.io/v2/sig-storage/livenessprobe/manifests/v2.9.0
