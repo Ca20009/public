@@ -1,3 +1,6 @@
 
 curl https://public.ecr.aws/token/?scope=repository:aws-secrets-manager/secrets-store-csi-driver-provider-aws:pull&service=public.ecr.aws
 curl -H "Authorization: Bearer $token" https://public.ecr.aws/v2/aws-secrets-manager/secrets-store-csi-driver-provider-aws/manifests/1
+
+            "registry.k8s.io/sig-storage/livenessprobe:v2.9.0",
+            "registry.k8s.io/ingress-nginx/controller:v1.10.0@sha256:42b3f0e5d0846876b1791cd3afeb5f1cbbe4259d6f35651dcc1b5c980925379c",
